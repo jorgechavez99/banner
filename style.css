@@ -1,0 +1,15 @@
+
+
+#slogan {
+    width: 1920px;
+    height: 655px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 655px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+
+    
+}
