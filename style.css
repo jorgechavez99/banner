@@ -1,6 +1,46 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+/*===================== RESPONSIVE==============*/
+.contenedor {
+    position: relative;
+    width: 95vw;
+    margin: 35px auto;
+    
+}
+
+img {
+    width: 100%;    
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    }
+    
+
+/*=====================================*/
 
 
-#slogan {
+
+
+/*===============SOLUCION NO RESPONSIVE======================*/
+/*
+p {
+
     width: 1920px;
     height: 655px;
     display: flex;
@@ -12,4 +52,7 @@
     font-size: 50px;
 
     
-}
+} 
+*/
+
+/*==================================================*/
